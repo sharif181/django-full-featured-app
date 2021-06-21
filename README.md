@@ -1,0 +1,1 @@
+# django-full-featured-app
